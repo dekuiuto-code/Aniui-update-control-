@@ -1,0 +1,14 @@
+{
+  "status": "is live",
+  "theme": {
+    "name": "NIOBIUM UI",
+    "logo": "https://github.com/dekuiuto-code/Icon.image.ANI-UI_Themes.update_LOG.v1/raw/refs/heads/main/VALUT%20ui%20icon.jpg",
+    "current_v": "0.1.2",
+    "previous_v": "0.1.2"
+  },
+  "changelog": {
+    "features": "• New animation added\n• New characters introduced",
+    "fixes": "• Fixed image fetching error\n• Fixed animation error"
+  },
+  "link": "https://t.me/Ani_Ui_in/1219"
+}
