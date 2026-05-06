@@ -1,0 +1,14 @@
+{
+  "status": "live",
+  "theme": {
+    "name": "Note UI",
+    "logo": "https://github.com/dekuiuto-code/Icon.image.ANI-UI_Themes.update_LOG.v1/raw/refs/heads/main/unnamed.webp",
+    "current_v": "0.1.3",
+    "previous_v": "0.1.2"
+  },
+  "changelog": {
+    "features": "• New animation added\n• New characters introduced",
+    "fixes": "• Fixed image fetching error\n• Fixed animation error"
+  },
+  "link": "https://t.me/Ani_Ui_in/1219"
+}
