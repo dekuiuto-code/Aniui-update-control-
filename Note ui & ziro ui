@@ -1,9 +1,9 @@
 {
-  "status": "is live",
+  "status": "live",
   "theme": {
     "name": "Note UI",
     "logo": "https://github.com/dekuiuto-code/Icon.image.ANI-UI_Themes.update_LOG.v1/raw/refs/heads/main/unnamed.webp",
-    "current_v": "0.1",
+    "current_v": "0.2",
     "previous_v": "0.1"
   },
   "changelog": {
