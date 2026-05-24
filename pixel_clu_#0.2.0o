@@ -1,9 +1,9 @@
 {
-  "status": "is live",
+  "status": "live",
   "theme": {
     "name": "PIXEL.exp",
     "logo": "https://github.com/dekuiuto-code/Icon.image.ANI-UI_Themes.update_LOG.v1/raw/refs/heads/main/pixel.%5BMag%5D.exp.jpg",
-    "current_v": "0.3.0",
+    "current_v": "0.4.0",
     "previous_v": "0.3.0"
   },
   "changelog": {
